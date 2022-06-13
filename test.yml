@@ -3,6 +3,6 @@
   
   tasks:
     - name: Test Debug Message
-      debug: msg="Hello World"
+      debug: msg="Hello Bruh"
   
 
