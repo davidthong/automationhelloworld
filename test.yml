@@ -1,2 +1,8 @@
----
+- name: Hello World Play
+  hosts: localhost
+  
+  tasks:
+    - name: Test Debug Message
+      debug: msg="Hello World"
+  
 
