@@ -3,6 +3,6 @@
   
   tasks:
     - name: Test Debug Message
-      debug: msg="Hello my ninja. This is DEV!"
+      debug: msg="Hello my dude. This is DEV!"
   
 
